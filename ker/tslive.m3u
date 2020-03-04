@@ -7,7 +7,7 @@ http://60.255.149.248/tslive/c212_scc_20190617_y2vstiy0_original_r10/c212_scc_20
 http://60.255.149.248/tslive/c213_scc_20190618_0apbps2b_original_r10/c213_scc_20190618_0apbps2b_original_r10.m3u88
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",cctv4
 http://60.255.149.248/tslive/c214_scc_20190618_horpaeho_original_r10/c214_scc_20190618_horpaeho_original_r10.m3u88
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",cctv5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",cctv-5
 http://60.255.149.248/tslive/c211_scc_20190618_g0ecxw42_original_r10/c211_scc_20190618_g0ecxw42_original_r10.m3u88
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",cctv6
 http://60.255.149.248/tslive/c212_scc_20190618_f0vs0sva_original_r10/c212_scc_20190618_f0vs0sva_original_r10.m3u88
@@ -46,7 +46,7 @@ http://60.255.149.248/tslive/c212_scc_20190618_yj4szagp_original_r10/c212_scc_20
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 http://60.255.149.248/tslive/c211_scc_20190618_umdim3h2_original_r10/c211_scc_20190618_umdim3h2_original_r10.m3u88
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
-http://60.255.149.248/tslive/c211_scc_20190618_uiv3cuzn_original_r10/c211_scc_20190618_uiv3cuzn_original_r10.m3u88
+http://60.255.149.209/tslive/c214_scc_20190618_oxkugonc_original_r10/c214_scc_20190618_oxkugonc_original_r10.m3u88
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://60.255.149.248/tslive/c211_scc_20190618_uiv3cuzn_original_r10/c211_scc_20190618_uiv3cuzn_original_r10.m3u88
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
