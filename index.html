@@ -99,7 +99,7 @@
             if (!isNaN(Date.parse(datetime))) {
                 d = new Date(datetime)
                 pad = function (s) {return s < 10 ? '0' + s : s}
-                mon = function (m) {return ['1','2','3','4','5','6','7','8','9','10','11','12'][m]}
+                mon = function (m) {return ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][m]}
                 datetime = datetime_format
                         .replace('%Y', d.getFullYear())
                         .replace('%m', pad(d.getMonth()+1))
