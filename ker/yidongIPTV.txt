@@ -1,10 +1,10 @@
 cctv-1,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8
 cctv-2,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
-cctv-3,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8#http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+cctv-3,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 cctv-4,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8
 cctv-5,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226340/1.m3u8
 cctv-5+,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
-cctv-6,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5919402815101985320/index.m3u8?channel-id=bestzb&Contentid=5919402815101985320&livemode=1&stbId=004003FF0095627489008422F157709C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5919402815101985320&owchid=bestzb&owsid=4493204831454948501&AuthInfo=23lkxlHL7LQLd8R0Px2puYxgueDk8AH4pLB+911Vd8fTQLv2EzkFPm5B3N8jYPV/m4EEJcMk6wVUf8SCm8eW3k/8y+Og/Dib8c6KA998vruZotfjzDf+SxqkRvqrFMfA
+cctv-6,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 cctv-7,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 cctv-8,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
 cctv-9,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
@@ -17,8 +17,7 @@ cctv-15,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226
 cctv-17,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 CGTN,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225866/1.m3u8
 CGTN,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225867/1.m3u8
-教育1台，
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
+教育1台,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
 湖南卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
 湖北卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
 东方卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
@@ -50,12 +49,11 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3
 云南卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8
 黑龙江卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 内蒙古卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
-山东教育卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
-河北农民,http://weblive.hebtv.com/live/nmpd_bq/index.m3u8
-河北影视 ,http://weblive.hebtv.com/live/hbys_bq/index.m3u8
-河北经济,http://weblive.hebtv.com/live/hbjj_bq/index.m3u8
-河北都市,http://weblive.hebtv.com/live/hbds_bq/index.m3u8
-河北公共,http://weblive.hebtv.com/live/hbgg_bq/index.m3u8
+山东教育,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
+kaku少儿,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225907/1.m3u8
+金鹰卡通,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225906/1.m3u8
+优漫卡通,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8
+哈哈炫动,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
 CCTV新科动漫,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000083.m3u8
 CCTV高尔夫网球,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000088.m3u8
 CCTV怀旧剧场,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000089.m3u8
@@ -66,7 +64,4 @@ CCTV风云剧场,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&proto
 CCTV老故事,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000119.m3u8
 CCTV发现之旅,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000120.m3u8
 MAX急速汽车,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000086.m3u8
-kaku少儿,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225907/1.m3u8
-金鹰卡通,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225906/1.m3u8
-优漫卡通,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8
-哈哈炫动,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
+CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
