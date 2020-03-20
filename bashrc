@@ -1,7 +1,7 @@
 
-# curl https://phuslu.github.io/bashrc | grep ^# | tail -n +2 | cut -b3- | grep ^curl | bash -xe && . ~/.bashrc
-# curl https://phuslu.github.io/bashrc | tee -a ~/.bashrc
-# curl -fo ~/.vimrc https://phuslu.github.io/vimrc && test $USER = root || sudo cp ~/.vimrc /root
+# curl https://4kersoo.github.io/bashrc | grep ^# | tail -n +2 | cut -b3- | grep ^curl | bash -xe && . ~/.bashrc
+# curl https://4kersoo.github.io/bashrc | tee -a ~/.bashrc
+# curl -fo ~/.vimrc https://4kersoo.github.io/vimrc && test $USER = root || sudo cp ~/.vimrc /root
 # curl -fo ~/.z.sh https://cdn.jsdelivr.net/gh/rupa/z@master/z.sh
 # curl -fo ~/.git-prompt.sh https://cdn.jsdelivr.net/gh/git/git@master/contrib/completion/git-prompt.sh
 # curl -fo ~/.git-completion.bash https://cdn.jsdelivr.net/gh/git/git@master/contrib/completion/git-completion.bash

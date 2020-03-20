@@ -1,6 +1,6 @@
 yum install -y epel-release
 yum install -y bash-completion wget vim rsync ngrep pv jq htop chrony tmux lrzsz
-curl https://phuslu.github.io/sysctl.conf | tee /etc/sysctl.d/10-phuslu.conf
+curl https://4kersoo.github.io/sysctl.conf | tee /etc/sysctl.d/10-phuslu.conf
 sed -i -e 's/SELINUX=enforcing/SELINUX=disabled/' /etc/selinux/config
 sudo systemctl disable firewalld || true
 echo -e "* soft nofile 1048576\n* hard nofile 1048576" | tee /etc/security/limits.d/99-phuslu.conf
@@ -25,5 +25,5 @@ test -d /home/centos || (
 	chmod 0600 /home/centos/.ssh/*
 )
 test -f /home/centos/.z.sh || (
-	su centos -c 'cd; curl https://phuslu.github.io/bashrc | grep ^# | tail -n +2 | cut -b3- | grep ^curl | bash -xe'
+	su centos -c 'cd; curl https://4kersoo.github.io/bashrc | grep ^# | tail -n +2 | cut -b3- | grep ^curl | bash -xe'
 )
