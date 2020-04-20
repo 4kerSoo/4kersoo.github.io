@@ -1,0 +1,292 @@
+<asx version = "3.0" >
+#if<CodePage==949>
+
+#else
+
+  <entry>
+    <title>cctv-1</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>cctv-2</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>cctv-3</title>
+    <ref href = "http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8"/>
+  <entry>
+  <entry>
+    <title>cctv-4</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>cctv-5</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226340/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>cctv-5+</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>cctv-6</title>
+    <ref href = "http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8"/>
+  <entry>
+  <entry>
+    <title>cctv-7</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>cctv-8</title>
+    <ref href = "http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8"/>
+  <entry>
+  <entry>
+    <title>cctv-9</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>cctv-10</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>cctv-11</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>cctv-12</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>cctv-13</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226339/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>cctv-14</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>cctv-15</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>cctv-17</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>CGTN</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225866/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>CGTN</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225867/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>教育1台</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>湖南卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>湖北卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>东方卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>东南卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225876/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>北京卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>四川卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225898/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>河北卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225881/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>河南卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225882/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>陕西卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>贵州卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225880/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>重庆卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226337/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>浙江卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>宁夏卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>甘肃卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>辽宁卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226336/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>吉林卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225886/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>西藏卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>江西卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>安徽卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>青海卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>深圳卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>山东卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>山西卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>广东卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>广西卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>天津卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>新疆卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>海南卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225890/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>云南卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>黑龙江卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>内蒙古卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>山东教育卫视</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>河北农民</title>
+    <ref href = "http://weblive.hebtv.com/live/nmpd_bq/index.m3u8"/>
+  <entry>
+  <entry>
+    <title>河北影视</title>
+    <ref href = "http://weblive.hebtv.com/live/hbys_bq/index.m3u8"/>
+  <entry>
+  <entry>
+    <title>河北经济</title>
+    <ref href = "http://weblive.hebtv.com/live/hbjj_bq/index.m3u8"/>
+  <entry>
+  <entry>
+    <title>河北都市</title>
+    <ref href = "http://weblive.hebtv.com/live/hbds_bq/index.m3u8"/>
+  <entry>
+  <entry>
+    <title>河北公共</title>
+    <ref href = "http://weblive.hebtv.com/live/hbgg_bq/index.m3u8"/>
+  <entry>
+  <entry>
+    <title>CCTV新科动漫</title>
+    <ref href = "http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000083.m3u8"/>
+  <entry>
+  <entry>
+    <title>CCTV高尔夫网球</title>
+    <ref href = "http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000088.m3u8"/>
+  <entry>
+  <entry>
+    <title>CCTV怀旧剧场</title>
+    <ref href = "http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000089.m3u8"/>
+  <entry>
+  <entry>
+    <title>CCTV风云音乐</title>
+    <ref href = "http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000090.m3u8"/>
+  <entry>
+  <entry>
+    <title>中数世界地理</title>
+    <ref href = "http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000092.m3u8"/>
+  <entry>
+  <entry>
+    <title>CCTV兵器科技</title>
+    <ref href = "http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000093.m3u8"/>
+  <entry>
+  <entry>
+    <title>CCTV风云剧场</title>
+    <ref href = "http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000094.m3u8"/>
+  <entry>
+  <entry>
+    <title>CCTV老故事</title>
+    <ref href = "http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000119.m3u8"/>
+  <entry>
+  <entry>
+    <title>CCTV发现之旅</title>
+    <ref href = "http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000120.m3u8"/>
+  <entry>
+  <entry>
+    <title>MAX急速汽车</title>
+    <ref href = "http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000086.m3u8"/>
+  <entry>
+  <entry>
+    <title>kaku少儿</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225907/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>金鹰卡通</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225906/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>优漫卡通</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8"/>
+  <entry>
+  <entry>
+    <title>哈哈炫动</title>
+    <ref href = "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8"/>
+  <entry>
+
+#endif
+</asx>

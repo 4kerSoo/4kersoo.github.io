@@ -1,0 +1,65 @@
+央视频道,#genre#
+CCTV1 高清,http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
+CCTV2 高清,http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
+CCTV3 高清,http://125.210.152.18:9090/live/CCTV3HD_H265.m3u8
+CCTV4 高清,http://121.31.30.91:8081/ysten-business/live/cctv-4/1.m3u8
+CCTV5 高清,http://125.210.152.18:9090/live/CCTV5HD_H265.m3u8
+CCTV6 高清,http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8
+CCTV7 高清,http://125.210.152.18:9090/live/CCTV7HD_H265.m3u8
+CCTV8 高清,http://125.210.152.18:9090/live/CCTV8HD_H265.m3u8
+CCTV9 高清,http://125.210.152.18:9090/live/CCTVJLHD_H265.m3u8
+CCTV10 高清,http://125.210.152.18:9090/live/CCTV10HD_H265.m3u8
+CCTV11 高清,http://121.31.30.91:8081/ysten-business/live/cctv-11/1.m3u8
+CCTV12 高清,http://125.210.152.18:9090/live/CCTV12HD_H265.m3u8
+CCTV13 标清,http://125.210.152.18:9090/live/CCTV13_750.m3u8
+CCTV14 高清,http://125.210.152.18:9090/live/CCTV14HD_H265.m3u8
+CCTV15 高清,http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
+卫视频道,#genre#
+安徽卫视高清,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=008&Provider_id=&Pcontent_id=index.m3u8
+重庆卫视高清,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
+江苏卫视高清,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=001&Provider_id=&Pcontent_id=index.m3u8
+东方卫视高清,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=002&Provider_id=&Pcontent_id=index.m3u8
+四川卫视高清,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=000&Provider_id=&Pcontent_id=index.m3u8
+深圳卫视高清,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=002&Provider_id=&Pcontent_id=index.m3u8
+天津卫视高清,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=004&Provider_id=&Pcontent_id=index.m3u8
+山东卫视高清,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=005&Provider_id=&Pcontent_id=index.m3u8
+黑龙江卫视高清,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=006&Provider_id=&Pcontent_id=index.m3u8
+云南卫视高清,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
+东方卫视高清,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=001&Provider_id=&Pcontent_id=index.m3u8
+北京卫视高清,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=003&Provider_id=&Pcontent_id=index.m3u8
+天津卫视高清,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=004&Provider_id=&Pcontent_id=index.m3u8
+湖北卫视高清,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=005&Provider_id=&Pcontent_id=index.m3u8
+广东卫视高清,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=004&Provider_id=&Pcontent_id=index.m3u8
+辽宁卫视高清,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
+江西卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=010&Provider_id=&Pcontent_id=index.m3u8
+吉林卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
+甘肃卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
+贵州卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=014&Provider_id=&Pcontent_id=index.m3u8
+广西卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=015&Provider_id=&Pcontent_id=index.m3u8
+青海卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
+康巴卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
+西藏卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
+河南卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=019&Provider_id=&Pcontent_id=index.m3u8
+新疆卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=009&Provider_id=&Pcontent_id=index.m3u8
+江西卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=010&Provider_id=&Pcontent_id=index.m3u8
+陕西卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
+甘肃卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=012&Provider_id=&Pcontent_id=index.m3u8
+东南卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
+贵州卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=014&Provider_id=&Pcontent_id=index.m3u8
+河北卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=015&Provider_id=&Pcontent_id=index.m3u8
+青海卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
+宁夏卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
+西藏卫视,http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
+山西卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=010&Provider_id=&Pcontent_id=index.m3u8
+陕西卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=011&Provider_id=&Pcontent_id=index.m3u8
+东南卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=013&Provider_id=&Pcontent_id=index.m3u8
+旅游卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=014&Provider_id=&Pcontent_id=index.m3u8
+河北卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=015&Provider_id=&Pcontent_id=index.m3u8
+内蒙古卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=016&Provider_id=&Pcontent_id=index.m3u8
+宁夏卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=017&Provider_id=&Pcontent_id=index.m3u8
+HBO-HD 高清,http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv#http://218.202.220.2:5000/nn_live.ts?id=HBO
+东方电影 高清,http://sousou2.top/dl/migu.php?id=623674834
+CHC高清电影 高清,rtmp://218.94.137.117/iptv/chchd
+CHC动作电影 高清,rtmp://218.94.137.117/iptv/chcatv
+CHC家庭影院 高清,rtmp://218.94.137.117/iptv/chctv
+河北影视 标清,http://weblive.hebtv.com/live/hbys_bq/index.m3u8
