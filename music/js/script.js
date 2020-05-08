@@ -29,7 +29,8 @@ cover: 'img/0.jpg',
 mp3: 'mp3/I love you 3000.mp3',
 ogg: ''
 },
-{title: '夏天的小风',
+{
+title: '夏天的小风',
 artist: 'B1SCU1TS',
 album: '夏天的小风- B1SCU1TS.mp3',
 cover: 'img/3.jpg',
@@ -44,42 +45,48 @@ cover: 'img/10.jpg',
 mp3: 'mp3/piano only.mp3',
 ogg: ''
 },
-{title: 'Heaven',
+{
+title: 'Heaven',
 artist: 'Avicii',
 album: 'Heaven - Avicii.mp3',
 cover: 'img/2.jpg',
 mp3: 'mp3/Avicii-Heaven.mp3',
 ogg: ''
 },
-{title: 'MOM',
+{
+title: 'MOM',
 artist: '蜡笔小心',
 album: 'MOM - 蜡笔小心.mp3',
 cover: 'img/9.jpg',
 mp3: 'mp3/MOM.mp3',
 ogg: ''
 },
-{title: 'East of Eden',
+{
+title: 'East of Eden',
 artist: 'Zella Day',
 album: 'East of Eden - Zella Day.mp3',
 cover: 'img/5.jpg',
 mp3: 'mp3/Zella Day - East of Eden.mp3',
 ogg: ''
 },
-{title: '我要找到你',
+{
+title: '我要找到你',
 artist: 'Zic子晨',
 album: '我要找到你 - Zic子晨.mp3',
 cover: 'img/8.png',
 mp3: 'mp3/woyaozhaodaoni.mp3',
 ogg: ''
 },
-{title: '与我无关',
+{
+title: '与我无关',
 artist: '阿冗',
 album: '与我无关 - 阿冗.mp3',
 cover: 'img/7.jpg',
 mp3: 'mp3/yuwowuguan.mp3',
 ogg: ''
 },
-{title: 'ハレハレヤ',
+{
+title: 'ハレハレヤ',
 artist: '羽生まゐご, v flower',
 album: 'ハレハレヤ - 羽生まゐご & flower.mp3',
 cover: 'img/6.jpg',
