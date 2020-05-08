@@ -10,7 +10,7 @@ title: '夏天的风',
 artist: '火羊瞌睡了',
 album: '火羊瞌睡了——夏天的风.mp3',
 cover: 'img/1.jpg',
-mp3: 'https://player.lmih.cn/api/musicUrl?songId=1436709403&type=wy&id=155782152289',
+mp3: 'mp3/xiatian.mp3',
 ogg: ''
 },
 {
