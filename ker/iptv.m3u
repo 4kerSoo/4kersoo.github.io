@@ -83,7 +83,8 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="",山东卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="",山西卫视http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="",山西卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="",广东卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="",广西卫视
@@ -102,26 +103,6 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="" group-title="",山东教育
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
-#EXTINF:-1 tvg-id="6592" tvg-name="新科动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png" group-title="",CCTV新科动漫
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000083.m3u8
-#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="",CCTV高尔夫网球
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000088.m3u8
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="",CCTV怀旧剧场
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000089.m3u8
-#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="",CCTV风云音乐
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CCTV地理世界
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000092.m3u8
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="",CCTV兵器科技
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000093.m3u8
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="",CCTV风云剧场
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000094.m3u8
-#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="",CCTV老故事
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000119.m3u8
-#EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="",CCTV发现之旅
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000120.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",MAX急速汽车
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000086.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",kaku少儿
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225907/1.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="",金鹰卡通
