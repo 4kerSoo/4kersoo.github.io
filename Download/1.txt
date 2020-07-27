@@ -3,6 +3,7 @@ cilibao.biz
 alabout.com
 bbs.ojxqsc.site
 Anti-AD
+https://shiki.azurewebsites.net/OneDrive/openwrt
 https://anti-ad.win/easylist.txt
 adgk手机去广告规则
 https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt
