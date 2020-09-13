@@ -23,6 +23,8 @@ https://github.com/user1121114685/koolproxyR_rule_list/raw/master/kpr_our_rule.t
 大圣净化-视频
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 yhosts-国内
-https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+https://raw.githubusercontent.com/vokins/yhosts/master/hostsaV2re
+V2ray
+http://openwrt.kuoruan.net/packages/releases/all/
 解锁网易云
 https://wy.ydlrqx.com/proxy.pac
