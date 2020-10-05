@@ -23,3 +23,5 @@ https://github.com/user1121114685/koolproxyR_rule_list/raw/master/kpr_our_rule.t
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 yhosts-国内
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+github hosts:
+https://raw.githubusercontent.com/521xueweihan/GitHub520/master/hosts
