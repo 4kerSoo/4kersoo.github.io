@@ -6,6 +6,7 @@ Anti-AD
 http://3322d.f3322.net:16999/other/sub/sub.txt
 https://shiki.azurewebsites.net/OneDrive/openwrt
 https://anti-ad.win/easylist.txt
+https://licongyu.squarespace.com/
 adgk手机去广告规则
 https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt
 Fanboy+Easylist-Merged Ultimate List
