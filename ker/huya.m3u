@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,台球1
-http://al.hls.huya.com/src/1677421524-1677421524-7204470587186479104-3354966504-10057-A-0-1.m3u8?wsSecret=332afd4b07041f5bd99915797372d744&wsTime=5fda76f5&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctyp=huya_tars&txyp=o%3Awx6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
-#EXTINF:-1 ,台球2
-http://migu-bd.hls.huya.com/src/1677421524-1677421524-7204470587186479104-3354966504-10057-A-0-1_2000.m3u8?wsSecret=e17f3d4ebeb69103601ada8552dd39d1&wsTime=5fd53f97&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103%22
-#EXTINF:-1 ,台球3
-http://al.hls.huya.com/src/1677421524-1677421524-7204470587186479104-3354966504-10057-A-0-1.m3u8?wsSecret=018e702350bf1591aade9b246054c881&wsTime=5fda7cb3&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctyp=huya_tars&txyp=o%3Awx6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 ,台球
+http://migu-bd.hls.huya.com/src/1677421524-1677421524-7204470587186479104-3354966504-10057-A-0-1_2000.m3u8?wsSecret=e17f3d4ebeb69103601ada8552dd39d1&wsTime=5fd53f97&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An6%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103%22;
+
