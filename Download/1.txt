@@ -32,3 +32,5 @@ V2ray
 http://openwrt.kuoruan.net/packages/releases/all/
 解锁网易云
 https://wy.ydlrqx.com/proxy.pac
+huya直播源
+https://api.tsyinpin.com/huya.php?room=
