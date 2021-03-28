@@ -34,3 +34,8 @@ http://openwrt.kuoruan.net/packages/releases/all/
 https://wy.ydlrqx.com/proxy.pac
 huya直播源
 https://api.tsyinpin.com/huya.php?room=
+玩客云
+http://blog.xiaofengguanjia.top/index.php/2021/02/05/onechoud/
+甜糖
+https://hub.docker.com/r/ericwang2006/ttnode
+
