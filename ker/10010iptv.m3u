@@ -3,5 +3,5 @@
 http://192.168.5.1:4022/rtp/239.253.92.83:8012
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13
 http://192.168.5.1:4022/rtp/239.253.92.13:8008
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="",河北农民
+#EXTINF:-1 tvg-id="" tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/4kerSoo/4kersoo.github.io/master/ker/HBNM.png",河北农民
 http://192.168.5.1:4022/rtp/239.253.92.176:6006
