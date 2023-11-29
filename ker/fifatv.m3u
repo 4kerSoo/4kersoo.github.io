@@ -13,7 +13,7 @@ http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
 http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1 tvg-name="咪咕4K-HLG源-备用2" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="4K频道",咪咕体育-4K-HLG源-3
 http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV4K 16M2160
-http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 tvg-id="huya" tvg-name="huya" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="4K频道",CCTV4K 16M2160
+https://hw.hls.huya.com/src/1677421524-1677421524-7204470587186479104-3354966504-10057-A-0-1.m3u8?wsSecret=d6608b5efca6cf1714756b821324d9c7&wsTime=656793cc&seqid=1703061856940&ctype=huya_wap&ver=1&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&ratio=2000&uid=1861396374&uuid=2158788468&t=103&sv=2310191541
 
 
